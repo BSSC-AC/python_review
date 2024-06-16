@@ -4,5 +4,6 @@ The content was originally produced under Creative Commons and in an email from 
 "They are shared under a creative commons license. 
 You're free to use and adapt, provided you attribute me as creator and don't sell any derivatives."
 
+Do the following<br>
 Each folder has a instructions and starter code for you to work through.
 You should work through each folder in numerical order (e.g. 23-Modify, 24-Make, etc.)
